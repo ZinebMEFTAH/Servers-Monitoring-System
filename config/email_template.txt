@@ -1,0 +1,9 @@
+🚨 CRISIS ALERT 🚨
+
+Server: {{server}}
+Issue: {{metric}} exceeded the threshold!
+Current Value: {{value}}%
+
+Detected at: {{timestamp}}
+
+Please take immediate action.

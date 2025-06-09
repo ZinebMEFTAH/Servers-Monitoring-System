@@ -1,0 +1,32 @@
+[
+    {
+        "server": "local_machine",
+        "metric": "RAM",
+        "value": 90.5,
+        "timestamp": "2025-03-21 22:39:33"
+    },
+    {
+        "server": "local_machine",
+        "metric": "RAM",
+        "value": 91.0,
+        "timestamp": "2025-04-21 18:39:20"
+    },
+    {
+        "server": "local_machine",
+        "metric": "CPU",
+        "value": 95.0,
+        "timestamp": "2025-04-25 14:53:40"
+    },
+    {
+        "server": "local_machine",
+        "metric": "CPU",
+        "value": 91.0,
+        "timestamp": "2025-04-25 12:54:01"
+    },
+    {
+        "server": "local_machine",
+        "metric": "CPU",
+        "value": 95.0,
+        "timestamp": "2025-04-25 15:44:19"
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "server_id": "local_machine",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-24 15:30:30",
+        "value": 30
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-22 15:47:44",
+        "value": 16
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-23 18:27:39",
+        "value": 16
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-16 23:48:24",
+        "value": 14.2
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-16 23:48:56",
+        "value": 14.4
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-21 15:48:17",
+        "value": 13.4
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-21 18:39:20",
+        "value": 91.2
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-16 23:41:25",
+        "value": 20.8
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-21 15:47:29",
+        "value": 3.7
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-21 18:39:20",
+        "value": 91.0
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-16 23:47:50",
+        "value": 247
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-21 15:48:01",
+        "value": 252
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans Microsoft Edge (14 avril 2025)",
+        "timestamp": "2025-04-21 16:13:14",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0310/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans Microsoft Visual Studio Code (14 avril 2025)",
+        "timestamp": "2025-04-21 16:13:14",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0311/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans SolarWinds Serv-U (15 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0313/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans les produits Atlassian (16 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0316/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans Google Chrome (16 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0315/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans Cisco Webex App (17 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0326/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Bulletin d'actualité CERTFR-2025-ACT-015 (14 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2025-ACT-015/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans les produits Ivanti (03 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-003/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans les produits IBM (18 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0337/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans Liferay (18 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0332/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vulnérabilité dans les produits Moxa (18 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0330/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans Microsoft Edge (18 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0331/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans Oracle Database Server (16 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0318/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans le noyau Linux de SUSE (18 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0336/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans Oracle Virtualization (16 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0323/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vulnérabilités dans les produits Mattermost (15 avril 2025)",
+        "timestamp": "2025-04-21 16:13:24",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0312/"
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-25 12:27:56",
+        "value": 14.4
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:27:56",
+        "value": 272
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-20 14:53:40",
+        "value": 9
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-23 12:28:52",
+        "value": 13.3
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-22 12:29:14",
+        "value": 37
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:40:23",
+        "value": 253
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 12:54:01",
+        "value": 91
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 15:44:19",
+        "value": 95
+    }
+]

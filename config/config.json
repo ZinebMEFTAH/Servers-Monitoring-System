@@ -1,0 +1,10 @@
+{
+    "cpu_threshold": 90,
+    "ram_threshold": 85,
+    "disk_threshold": 90,
+    "process_threshold": 500,
+    "time_limit_minutes": 5,
+    "max_log_entries": 100,  
+    "history_limit_hours": 5,
+    "alerts_limit_count": 12
+  }

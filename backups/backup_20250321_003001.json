@@ -1,0 +1,254 @@
+[
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Atlassian Jira (19 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0218/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans GLPI (19 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0219/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Mattermost Server (19 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0220/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans HPE Aruba Networking AOS-CX (19 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0221/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans MongoDB C Driver (19 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0222/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Suricata (19 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0223/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Google Chrome (20 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0226/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Liferay (20 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0227/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Spring Security (20 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Veeam Backup & Replication (20 mars 2025)",
+        "timestamp": "2025-03-20 23:09:00",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Atlassian Jira (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0218/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans GLPI (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0219/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Mattermost Server (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0220/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans HPE Aruba Networking AOS-CX (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0221/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans MongoDB C Driver (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0222/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Suricata (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0223/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans les produits Synology (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0224/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Drupal (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0225/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Google Chrome (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0226/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Liferay (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0227/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Spring Security (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Veeam Backup & Replication (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:19",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Atlassian Jira (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0218/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans GLPI (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0219/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Mattermost Server (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0220/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans HPE Aruba Networking AOS-CX (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0221/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans MongoDB C Driver (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0222/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Suricata (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0223/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans les produits Synology (19 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0224/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Drupal (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0225/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Google Chrome (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0226/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Liferay (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0227/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Multiples vuln\u00e9rabilit\u00e9s dans Spring Security (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0228/"
+    },
+    {
+        "server_id": "cert",
+        "metric_type": "Security Alert: Vuln\u00e9rabilit\u00e9 dans Veeam Backup & Replication (20 mars 2025)",
+        "timestamp": "2025-03-20 23:29:20",
+        "value": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0229/"
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-03-21 00:29:25",
+        "value": 5.34
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "CPU",
+        "timestamp": "2025-03-21 00:29:27",
+        "value": 14.18
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Disk",
+        "timestamp": "2025-03-21 00:29:29",
+        "value": 41
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Disk",
+        "timestamp": "2025-03-21 00:29:30",
+        "value": 41
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Processes",
+        "timestamp": "2025-03-21 00:29:32",
+        "value": 532
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "Processes",
+        "timestamp": "2025-03-21 00:29:33",
+        "value": 532
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-03-21 00:29:36",
+        "value": 82.3
+    },
+    {
+        "server_id": "local_machine",
+        "metric_type": "RAM",
+        "timestamp": "2025-03-21 00:29:37",
+        "value": 82.1
+    }
+]

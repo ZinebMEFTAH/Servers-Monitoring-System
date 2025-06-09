@@ -1,0 +1,242 @@
+[
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-22 13:28:01",
+        "value": 10.9
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-22 13:28:01",
+        "value": 14.0
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-22 13:28:01",
+        "value": 26.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-22 13:28:01",
+        "value": 248
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-20 13:29:01",
+        "value": 0.4
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-23 13:29:01",
+        "value": 10.0
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-22 13:29:01",
+        "value": 96.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-22 13:29:01",
+        "value": 251
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-22 13:30:01",
+        "value": 5.9
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-22 13:30:01",
+        "value": 12.4
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-23 13:30:01",
+        "value": 30.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-22 13:30:01",
+        "value": 252
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-22 13:31:01",
+        "value": 4.7
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-22 13:31:01",
+        "value": 14.9
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-22 13:31:01",
+        "value": 11.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-22 13:31:01",
+        "value": 252
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-22 13:31:07",
+        "value": 0.5
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-22 13:31:07",
+        "value": 18.3
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-23 13:31:07",
+        "value": 20.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-22 13:31:07",
+        "value": 250
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 12:25:01",
+        "value": 2.0
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-25 12:25:01",
+        "value": 5.4
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-25 12:25:01",
+        "value": 16.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:25:01",
+        "value": 180
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 12:30:01",
+        "value": 2.8
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-25 12:30:01",
+        "value": 13.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-25 12:30:01",
+        "value": 36.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:30:01",
+        "value": 249
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 12:35:01",
+        "value": 0.4
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-25 12:35:01",
+        "value": 16.4
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-25 12:35:01",
+        "value": 6.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:35:01",
+        "value": 246
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 12:40:01",
+        "value": 4.6
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-25 12:40:01",
+        "value": 15.0
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-25 12:40:01",
+        "value": 6
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:40:01",
+        "value": 246
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "CPU",
+        "timestamp": "2025-04-25 12:45:01",
+        "value": 0.0
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "RAM",
+        "timestamp": "2025-04-25 12:45:01",
+        "value": 14.4
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Disk",
+        "timestamp": "2025-04-25 12:45:01",
+        "value": 6.1
+    },
+    {
+        "server_id": "serverb",
+        "metric_type": "Processes",
+        "timestamp": "2025-04-25 12:45:01",
+        "value": 244
+    }
+]

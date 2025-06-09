@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Monitoring</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Server Monitoring Dashboard</h1>
+
+        <h2>📊 Combined Graphs</h2>
+        <div class="graphs">
+            {% for graph in combined_graphs %}
+                <img src="{{ url_for('serve_graph', filename=graph) }}" alt="{{ graph }}">
+            {% endfor %}
+        </div>
+
+        <h2>🖥️ Server A (Local Machine)</h2>
+        <div class="graphs">
+            {% for graph in local_graphs %}
+                <img src="{{ url_for('serve_graph', filename=graph) }}" alt="{{ graph }}">
+            {% endfor %}
+        </div>
+
+        <h2>🌐 Server B</h2>
+        <div class="graphs">
+            {% for graph in serverb_graphs %}
+                <img src="{{ url_for('serve_graph', filename=graph) }}" alt="{{ graph }}">
+            {% endfor %}
+        </div>
+
+        <h2>📜 Latest Logs</h2>
+        <div class="logs">
+            <table>
+                <tr>
+                    <th>Timestamp</th>
+                    <th>Metric</th>
+                    <th>Value</th>
+                    <th>Server</th>
+                </tr>
+                {% for log in logs %}
+                <tr>
+                    <td>{{ log.timestamp }}</td>
+                    <td>{{ log.metric_type }}</td>
+                    <td>{{ log.value }}</td>
+                    <td>{{ log.server_id }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <h2>🚨 Recent Alerts</h2>
+        <div class="alerts">
+            <table>
+                <tr>
+                    <th>Timestamp</th>
+                    <th>Metric</th>
+                    <th>Value</th>
+                    <th>Server</th>
+                </tr>
+                {% for alert in alerts %}
+                <tr>
+                    <td>{{ alert.timestamp }}</td>
+                    <td>{{ alert.metric }}</td>
+                    <td>{{ alert.value }}</td>
+                    <td>{{ alert.server }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</body>
+</html>
