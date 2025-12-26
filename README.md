@@ -121,10 +121,3 @@ Extrait d’exemple de crontab :
 */2  * * * * scp serverb@192.168.64.12:/home/serverb/AMS_Project/storage/system_logs.json /chemin/vers/remote/serverb_logs.json
 @reboot /usr/bin/python3 /chemin/vers/web/app.py > /chemin/vers/logs/flask.log 2>&1 &
 ```
-
-⸻
-
-Notes supplémentaires:
-	•	Le fichier generate_graphs.py doit être exécuté régulièrement pour mettre à jour les graphiques.
-	•	Le système est conçu pour être étendu à d’autres serveurs si besoin (support multi-serveur).
-	•	Un fichier de template email personnalisable peut être ajouté dans config/email_template.txt.
